@@ -1,16 +1,29 @@
-## Hi there 👋
+# Oi, eu sou a Isabela
 
-<!--
-**isabeladelimaalmeida4-cyber/isabeladelimaalmeida4-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Inteligência de Mercado e Análise de Dados · Rondonópolis, MT
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim
+
+Trabalho como Assistente Administrativa na Agroserv, onde uso dados no dia a dia: planilhas, indicadores, relatórios. No meio disso, identifiquei um problema real — mais de 40 anos de documentos da empresa, a maioria ainda em papel, sem nenhum controle centralizado — e resolvi criar uma solução para isso por conta própria.
+
+Gosto de SQL, Power BI e da parte de transformar bagunça de dados em algo que faça sentido. Ainda estou no começo, mas é isso que eu quero fazer.
+
+**Tech stack:** SQL · PostgreSQL · Power BI · Excel Avançado · Python
+
+---
+
+### Projeto em destaque
+
+**Sistema de Catalogação de Acervo Documental** — estruturei uma planilha indexada para mais de 100 caixas de documentos físicos (caixa, categoria, data, localização), com plano de migração para banco de dados em SQL. Objetivo: encontrar qualquer documento em segundos, não em horas.
+
+---
+
+### Conecte-se
+
+[LinkedIn](https://www.linkedin.com/in/isabela-de-lima-almeida-3310b53ba) · isabeladelimaalmeida4@gmail.com
+
+---
+
+*Ainda aprendendo a diferença entre "já sei SQL" e "sei o suficiente pra ser perigosa".*
